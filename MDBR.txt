@@ -67,4 +67,14 @@ istreameast.app
 key.volcano.wtf
 cdn.polyfill.io
 go.vrpyourself.online
+_minecraft._tcp.play.smashmc.co
+4spromax.site
+api-sr.amplitude.com
+downloads77-windows.hfbpwlx.com
+pdp.ysnclks.com
+downloads77-windows.ysnclks.com
+pdp.hfbpwlx.com
+play.smashmc.co
+mitm.it
+files.readanybook.com
 
